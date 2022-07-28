@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lam4562311&show_icons=true&locale=zh-tw" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lam4562311&show_icons=true&locale=en" />
 </a>
 
 🌟 **My Skills & Tools**  
