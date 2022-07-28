@@ -7,6 +7,7 @@
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
+[![](https://img.shields.io/badge/flutter-Dart-blue?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)  
 
